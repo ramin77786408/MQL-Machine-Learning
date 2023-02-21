@@ -5,4 +5,4 @@
 2. Add "SocketToPython.mq5" to your EURUSD Chart
 3. Train The model by "TradeBySKlearn.py"
 
-##and BOOOOOOM
+## and BOOOOOOM
